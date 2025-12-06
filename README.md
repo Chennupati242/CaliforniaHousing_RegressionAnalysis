@@ -7,7 +7,11 @@ This repository contains the complete solution for **Statistical Modeling and In
 
 
 ##Project Structure
-
+SMI_Assignment1/
+│
+├── 2025em1100344_SMI_Assignment1.ipynb # Main Jupyter/Colab Notebook
+├── housing.csv # Dataset
+├── README.md # Project documentation
 ---
 
 ## **1. Objective**
@@ -91,5 +95,6 @@ This dataset is widely used for regression tasks and demonstrates socioeconomic 
 
 ---
 
-
+## License
+This project is licensed under the **MIT License**.
 
