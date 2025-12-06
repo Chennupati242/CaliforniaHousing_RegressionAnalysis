@@ -1,5 +1,10 @@
 # CaliforniaHousing_RegressionAnalysis
-Comprehensive statistical analysis of the California Housing dataset, including data cleaning, exploratory analysis, feature engineering, multicollinearity checks, linear regression models, diagnostic tests, and interpretation of results. Developed as part of SMI Assignment- 1
+This repository contains the complete solution for **Statistical Modeling and Inferencing (SMI) Assignment-1**, focusing on Exploratory Data Analysis (EDA), feature engineering, and regression modeling using the **California Housing Dataset**.
+
+---
+
+## 📁 Project Structure
+
 
 ##Project Structure
 
